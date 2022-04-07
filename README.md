@@ -1,0 +1,2 @@
+# Webinar.RD.Python.CodebookCourse2
+This is a repository for examples used in a CodeBook Course Webinar's 2nd session in April 2022 organised by Stuart Duncan. As it is only Session 2, only basic concepts of Python and CodeBook (i.e.: Jupyter Lab) are demonstrated here, however, the included notebook does go quite far into what one can do in CodeBook, so don't hesitate to try and run it yourself to the end, as I believe we will not be able to go through it all in the Training session / webinar on the day.
